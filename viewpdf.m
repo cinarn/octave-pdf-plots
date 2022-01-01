@@ -4,7 +4,6 @@ function viewpdf(filename)
 % viewpdf(filename)
 %
 %   in:  filename                 path of the .pdf file without extension
-%        fontSize (optional)      if used, default font size is ignored
 %
 %
 % Copyright (C) 2019-2021, M. Neset Cinar
